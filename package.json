@@ -1,0 +1,13 @@
+{
+  "name": "esj-filter",
+  "version": "1.2.1",
+  "private": true,
+  "description": "为 ESJ Zone 添加小说、作者和标签屏蔽，支持 18+ 筛选与跨页递进浏览。",
+  "scripts": {
+    "test": "node tests/run.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  },
+  "license": "MIT"
+}
